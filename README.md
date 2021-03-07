@@ -43,38 +43,13 @@
 </table>
 </p>
 
-- 🔭 I’m currently working on DR Platform Convergence at EnelX 
-- 🌱 I’m currently learning AWS Certified Developer - Associate
-- 🤔 I’m looking for help with TypeScript Developers Italia (FB group)
-- 💬 Ask me about: Typescript, Javascript, React, Angular
+- 🔭  I’m currently working on DR Platform Convergence at EnelX 
+- 🌱  I’m currently learning AWS Certified Developer - Associate
+- 🤔  I’m looking for help with TypeScript Developers Italia (FB group)
+- 💬  Ask me about: Typescript, Javascript, React, Angular
 
 ***
-
-<div class="grid-container">
-  <div class="two"></div>
-  <div class="one"></div>
-  <div class="three"></div>
-  <div class="four"></div>
-  <div class="five"></div>
-  <div class="six"></div>
-  <div class="seven"></div>
-  <div class="eight"></div>
-</div>
-<table>
-<tbody>
-<tr>
-<td><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></td>
-<td><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></td>
-<td><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></td>
-<td><img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white"></td>
-</tr>
-<tr>
-<td><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></td>
-<td><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></td>
-<td><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></td>
-<td><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></td>
-</tr>
-</tbody>
-</table>
-
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:diceccostefano87@gmail.com)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/stefano-di-cecco-40343170/)
+[<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/macorifice/)
 
