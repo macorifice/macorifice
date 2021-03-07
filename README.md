@@ -43,14 +43,11 @@
 </table>
 </p>
 
-- 🔭 I’m currently working on DR
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on DR Platform Convergence at EnelX 
+- 🌱 I’m currently learning AWS Certified Developer - Associate
+- 🤔 I’m looking for help with TypeScript Developers Italia (FB group)
+- 💬 Ask me about: Typescript, Javascript, React, Angular
+
 ***
 
 <div class="grid-container">
