@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Stefano</h1>
 <h3 align="center">A passionate full stack developer from Italy</h3>
 
-- 🔭  I’m currently working on **DR Platform Convergence at EnelX**
+- 🔭 &nbsp;&nbsp;I’m currently working on **DR Platform Convergence at EnelX**
 
-- 🌱  I’m currently learning **AWS Certified Developer - Associate**
+- 🌱 &nbsp;&nbsp;I’m currently learning **AWS Certified Developer - Associate**
 
-- 🤝  I’m looking for help with **TypeScript Developers Italia (FB group)**
+- 🤝 &nbsp;&nbsp;I’m looking for help with **TypeScript Developers Italia (FB group)**
 
-- 💬  Ask me about **Typescript, Javascript, React, Angular**
+- 💬 &nbsp;&nbsp;Ask me about **Typescript, Javascript, React, Angular**
 
 <h3 align="center">Languages and Tools:</h3>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
