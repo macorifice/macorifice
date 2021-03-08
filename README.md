@@ -7,6 +7,8 @@
 
 - 🤝 &nbsp;&nbsp;I’m looking for help with **TypeScript Developers Italia (FB group)**
 
+- 📝 &nbsp;&nbsp;I regularly write articles on **[https://medium.com/@diceccostefano87](https://medium.com/@diceccostefano87)**
+
 - 💬 &nbsp;&nbsp;Ask me about **Typescript, Javascript, React, Angular**
 
 <h3 align="center">Languages and Tools:</h3>
