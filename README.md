@@ -11,6 +11,8 @@
 
 - 💬 &nbsp;&nbsp;Ask me about **Typescript, Javascript, React, Angular**
 
+- ⚡ &nbsp;&nbsp;Fun fact **https://skyline.github.com/macorifice/2020**
+
 <h3 align="center">Languages and Tools:</h3>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
