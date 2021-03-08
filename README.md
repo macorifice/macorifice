@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Stefano</h1>
 <h3 align="center">A passionate full stack developer from Italy</h3>
 
-- 🔭 I’m currently working on **DR Platform Convergence at EnelX**
+- 🔭  I’m currently working on **DR Platform Convergence at EnelX**
 
-- 🌱 I’m currently learning **AWS Certified Developer - Associate**
+- 🌱  I’m currently learning **AWS Certified Developer - Associate**
 
-- 🤝 I’m looking for help with **TypeScript Developers Italia (FB group)**
+- 🤝  I’m looking for help with **TypeScript Developers Italia (FB group)**
 
-- 💬 Ask me about **Typescript, Javascript, React, Angular**
+- 💬  Ask me about **Typescript, Javascript, React, Angular**
 
 <h3 align="center">Languages and Tools:</h3>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
@@ -27,23 +27,10 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
 
+|  |  |  |
+| :---         |     :---:      |          ---: |
+| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=macorifice&show_icons=true&locale=en&layout=compact" alt="macorifice" />   | <img align="center" src="https://github-readme-stats.vercel.app/api?username=macorifice&show_icons=true&locale=en" alt="macorifice" />     | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=macorifice&" alt="macorifice" />    |
  
-<table>
-  <tbody>
-    <tr>
-      <td>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=macorifice&show_icons=true&locale=en&layout=compact" alt="macorifice" /></p>
-      </td>
-      <td>
-        <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=macorifice&show_icons=true&locale=en" alt="macorifice" /></p>
-      </td>
-      <td>
-        <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=macorifice&" alt="macorifice" /></p>
-      </td>
-    </tr>
-  </tbody>
-  </table>
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/stefano-di-cecco-40343170" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="stefano-di-cecco-40343170" height="30" width="40" /></a>
