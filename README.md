@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Stefano</h1>
-<h3 align="center">A passionate full stack developer from Italy</h3>
+<h3 align="center">Self-motivated IT professional with great knowledge and proficiency in JavaScript, TypeScript. Expertise in frameworks like React.js, Angular.</h3>
 
 - 🔭 &nbsp;&nbsp;I’m currently working on **DR Platform Convergence at EnelX**
 
