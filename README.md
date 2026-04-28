@@ -1,6 +1,6 @@
 # Hi 👋, I'm Stefano
 
-Self-motivated IT professional with great knowledge and proficiency in **JavaScript** and **TypeScript**. Expertise in frameworks like **React.js** and **Angular**.
+Self-motivated IT professional with **5+ years** of experience and great knowledge and proficiency in **JavaScript** and **TypeScript**. Expertise in frameworks like **React.js** and **Angular**. Passionate about building scalable, high-performance web applications and cloud solutions.
 
 ---
 
@@ -9,9 +9,19 @@ Self-motivated IT professional with great knowledge and proficiency in **JavaScr
 - 🔭 **Currently working on:** DR Platform Convergence at EnelX
 - 🌱 **Currently learning:** AWS Certified Developer - Associate
 - 🤝 **Looking for help with:** TypeScript Developers Italia (FB group)
-- 📝 **Writing:** [Medium Articles](https://medium.com/@diceccostefano87)
-- 💬 **Ask me about:** TypeScript, JavaScript, React, Angular
+- 📝 **Writing:** [Medium Articles](https://medium.com/@diceccostefano87) – 10K+ monthly readers
+- 💬 **Ask me about:** TypeScript, JavaScript, React, Angular, Full-Stack Development
 - ⚡ **Fun fact:** [GitHub Skyline 2020](https://skyline.github.com/macorifice/2020)
+- 💼 **Open to:** Freelance projects and collaborations on innovative web solutions
+
+---
+
+## 🎯 Highlights
+
+- 🏆 Building and maintaining high-traffic production applications
+- 📚 Active contributor to TypeScript and JavaScript communities
+- 🚀 Full-stack expertise: Frontend, Backend, DevOps & Cloud
+- 🔧 Proficient in modern development workflows and CI/CD practices
 
 ---
 
