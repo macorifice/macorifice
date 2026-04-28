@@ -1,6 +1,6 @@
 # Hi 👋, I'm Stefano
 
-Self-motivated IT professional with **5+ years** of experience and great knowledge and proficiency in **JavaScript** and **TypeScript**. Expertise in frameworks like **React.js** and **Angular**. Passionate about building scalable, high-performance web applications and cloud solutions.
+Self-motivated IT professional with **18+ years** of experience and great knowledge and proficiency in **JavaScript** and **TypeScript**. Expertise in frameworks like **React.js** and **Angular**. Passionate about building scalable, high-performance web applications and cloud solutions.
 
 ---
 
@@ -9,7 +9,7 @@ Self-motivated IT professional with **5+ years** of experience and great knowled
 - 🔭 **Currently working on:** DR Platform Convergence at EnelX
 - 🌱 **Currently learning:** AWS Certified Developer - Associate
 - 🤝 **Looking for help with:** TypeScript Developers Italia (FB group)
-- 📝 **Writing:** [Medium Articles](https://medium.com/@diceccostefano87) – 10K+ monthly readers
+- 📝 **Writing:** [Medium Articles](https://medium.com/@diceccostefano87)
 - 💬 **Ask me about:** TypeScript, JavaScript, React, Angular, Full-Stack Development
 - ⚡ **Fun fact:** [GitHub Skyline 2020](https://skyline.github.com/macorifice/2020)
 - 💼 **Open to:** Freelance projects and collaborations on innovative web solutions
@@ -28,7 +28,7 @@ Self-motivated IT professional with **5+ years** of experience and great knowled
 ## 🛠️ Languages & Technologies
 
 ### Frontend
-<div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
+<div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center; background-color: #e8e8e8; padding: 10px; border-radius: 5px; border: 1px solid #999;">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
   </a>
@@ -53,7 +53,7 @@ Self-motivated IT professional with **5+ years** of experience and great knowled
 </div>
 
 ### Styling & UI
-<div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
+<div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center; background-color: #e8e8e8; padding: 10px; border-radius: 5px; border: 1px solid #999;">
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50" />
   </a>
@@ -69,7 +69,7 @@ Self-motivated IT professional with **5+ years** of experience and great knowled
 </div>
 
 ### Backend & Runtime
-<div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
+<div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center; background-color: #e8e8e8; padding: 10px; border-radius: 5px; border: 1px solid #999;">
   <a href="https://nodejs.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50" />
   </a>
@@ -79,7 +79,7 @@ Self-motivated IT professional with **5+ years** of experience and great knowled
 </div>
 
 ### Testing
-<div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
+<div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center; background-color: #e8e8e8; padding: 10px; border-radius: 5px; border: 1px solid #999;">
   <a href="https://jasmine.github.io/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jasmine/jasmine-original.svg" alt="Jasmine" width="50" height="50" />
   </a>
@@ -89,7 +89,7 @@ Self-motivated IT professional with **5+ years** of experience and great knowled
 </div>
 
 ### Build Tools
-<div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
+<div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center; background-color: #e8e8e8; padding: 10px; border-radius: 5px; border: 1px solid #999;">
   <a href="https://webpack.js.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original-wordmark.svg" alt="Webpack" width="50" height="50" />
   </a>
@@ -102,7 +102,7 @@ Self-motivated IT professional with **5+ years** of experience and great knowled
 </div>
 
 ### Databases & ORM
-<div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
+<div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center; background-color: #e8e8e8; padding: 10px; border-radius: 5px; border: 1px solid #999;">
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50" />
   </a>
@@ -118,7 +118,7 @@ Self-motivated IT professional with **5+ years** of experience and great knowled
 </div>
 
 ### Cloud & Deployment
-<div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
+<div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center; background-color: #e8e8e8; padding: 10px; border-radius: 5px; border: 1px solid #999;">
   <a href="https://aws.amazon.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50" />
   </a>
@@ -131,7 +131,7 @@ Self-motivated IT professional with **5+ years** of experience and great knowled
 </div>
 
 ### DevOps & Tools
-<div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
+<div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center; background-color: #e8e8e8; padding: 10px; border-radius: 5px; border: 1px solid #999;">
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50" />
   </a>
