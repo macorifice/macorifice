@@ -1,151 +1,107 @@
 # Hi 👋, I'm Stefano
 
-Self-motivated IT professional with **18+ years** of experience and great knowledge and proficiency in **JavaScript** and **TypeScript**. Expertise in frameworks like **React.js** and **Angular**. Passionate about building scalable, high-performance web applications and cloud solutions.
+Senior Software Engineer and Tech Lead in Rome. 18+ years in software, since 2020 on Demand Response platforms for the energy sector.
+
+**[Portfolio](https://web-production-2eef2.up.railway.app)** · **[LinkedIn](https://linkedin.com/in/stefano-di-cecco-40343170)** · **[Medium](https://medium.com/@diceccostefano87)** · **[Stack Overflow](https://stackoverflow.com/users/9095158)** · **[Email](mailto:diceccostefano87@gmail.com)**
+
+---
+
+## 🎯 Focus
+
+- ☁️ **Cloud and serverless:** AWS (Lambda, EKS/Kubernetes), microservices, RESTful APIs
+- 🧩 **Full-stack TypeScript:** Node.js, React, Angular, RxJS
+- 👥 **Leadership:** team lead at Softwave (2020–2021): sprint planning, architecture, code reviews
+- 🔄 **Modernization:** legacy monoliths migrated to microservices (2019–2020)
+- 🗄️ **Earlier:** Oracle PL/SQL and Java systems for public administration (2008–2017)
 
 ---
 
 ## 👨‍💼 About Me
 
-- 🔭 **Currently working on:** DR Platform Convergence at EnelX
+- 🔭 **Currently working on:** Demand Response platform convergence at Enel X
 - 🌱 **Currently learning:** AWS Certified Developer - Associate
-- 🤝 **Looking for help with:** TypeScript Developers Italia (FB group)
-- 📝 **Writing:** [Medium Articles](https://medium.com/@diceccostefano87)
-- 💬 **Ask me about:** TypeScript, JavaScript, React, Angular, Full-Stack Development
+- 📝 **Writing:** [Medium articles](https://medium.com/@diceccostefano87)
+- 💬 **Ask me about:** TypeScript, JavaScript, React, Angular, AWS, full-stack development
 - ⚡ **Fun fact:** [GitHub Skyline 2020](https://skyline.github.com/macorifice/2020)
-- 💼 **Open to:** Freelance projects and collaborations on innovative web solutions
+- 💼 **Open to:** senior and lead engineering roles, and freelance projects
 
 ---
 
-## 🎯 Highlights
-
-- 🏆 Building and maintaining high-traffic production applications
-- 📚 Active contributor to TypeScript and JavaScript communities
-- 🚀 Full-stack expertise: Frontend, Backend, DevOps & Cloud
-- 🔧 Proficient in modern development workflows and CI/CD practices
-
----
-
-## 🛠️ Languages & Technologies
+## 🛠️ Stack
 
 ### Frontend
-<div style="display: flex; flex-direction: column; flex-wrap: wrap; height: 130px; gap: 10px; padding: 10px;">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
-  </a>
+<div style="display: flex; flex-wrap: wrap; gap: 14px; align-items: center;">
   <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
   </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+  </a>
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
+  </a>
+  <a href="https://angular.dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="Angular" width="40" height="40" />
   </a>
   <a href="https://redux.js.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="50" height="50" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40" />
   </a>
-  <a href="https://angular.io" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="Angular" width="50" height="50" />
+  <a href="https://rxjs.dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rxjs/rxjs-original.svg" alt="RxJS" width="40" height="40" />
   </a>
-  <a href="https://rxjs-dev.firebaseapp.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rxjs/rxjs-original.svg" alt="RxJS" width="50" height="50" />
-  </a>
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50" />
-  </a>
-</div>
-
-### Styling & UI
-<div style="display: flex; flex-direction: column; flex-wrap: wrap; height: 130px; gap: 10px; padding: 10px;">
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50" />
-  </a>
-  <a href="https://material-ui.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material-UI" width="50" height="50" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
   </a>
   <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind CSS" width="50" height="50" />
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind CSS" width="40" height="40" />
   </a>
 </div>
 
-### Backend & Runtime
-<div style="display: flex; flex-direction: column; flex-wrap: wrap; height: 130px; gap: 10px; padding: 10px;">
+### Backend & Cloud
+<div style="display: flex; flex-wrap: wrap; gap: 14px; align-items: center;">
   <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
   </a>
-  <a href="https://expressjs.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="50" height="50" />
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
   </a>
-</div>
-
-### Testing
-<div style="display: flex; flex-direction: column; flex-wrap: wrap; height: 130px; gap: 10px; padding: 10px;">
-  <a href="https://jasmine.github.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jasmine/jasmine-original.svg" alt="Jasmine" width="50" height="50" />
+  <a href="https://www.php.net" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" />
   </a>
-  <a href="https://jestjs.io" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="Jest" width="50" height="50" />
-  </a>
-</div>
-
-### Build Tools
-<div style="display: flex; flex-direction: column; flex-wrap: wrap; height: 130px; gap: 10px; padding: 10px;">
-  <a href="https://webpack.js.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original-wordmark.svg" alt="Webpack" width="50" height="50" />
-  </a>
-  <a href="https://babeljs.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg" alt="Babel" width="50" height="50" />
-  </a>
-  <a href="https://docs.npmjs.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="NPM" width="50" height="50" />
-  </a>
-</div>
-
-### Databases & ORM
-<div style="display: flex; flex-direction: column; flex-wrap: wrap; height: 130px; gap: 10px; padding: 10px;">
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50" />
-  </a>
-  <a href="https://www.oracle.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="50" height="50" />
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="50" height="50" />
-  </a>
-  <a href="https://sequelize.org/master/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg" alt="Sequelize" width="50" height="50" />
-  </a>
-</div>
-
-### Cloud & Deployment
-<div style="display: flex; flex-direction: column; flex-wrap: wrap; height: 130px; gap: 10px; padding: 10px;">
   <a href="https://aws.amazon.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" />
   </a>
-  <a href="https://heroku.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original-wordmark.svg" alt="Heroku" width="50" height="50" />
-  </a>
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" alt="Firebase" width="50" height="50" />
+  <a href="https://kubernetes.io" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40" />
   </a>
 </div>
 
-### DevOps & Tools
-<div style="display: flex; flex-direction: column; flex-wrap: wrap; height: 130px; gap: 10px; padding: 10px;">
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50" />
+### Databases
+<div style="display: flex; flex-wrap: wrap; gap: 14px; align-items: center;">
+  <a href="https://www.oracle.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
+  </a>
+</div>
+
+### Testing & DevOps
+<div style="display: flex; flex-wrap: wrap; gap: 14px; align-items: center;">
+  <a href="https://jestjs.io" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="Jest" width="40" height="40" />
+  </a>
+  <a href="https://jasmine.github.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jasmine/jasmine-original.svg" alt="Jasmine" width="40" height="40" />
   </a>
   <a href="https://git-scm.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40" />
   </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="50" height="50" />
-  </a>
-  <a href="https://www.linux.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50" />
-  </a>
-  <a href="https://www.postman.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="50" height="50" />
+  <a href="https://github.com/features/actions" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="40" height="40" />
   </a>
 </div>
 
@@ -154,22 +110,3 @@ Self-motivated IT professional with **18+ years** of experience and great knowle
 ## 📊 GitHub Stats
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=macorifice&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-
----
-
-## 🤝 Connect With Me
-
-<div style="display: flex; gap: 15px; align-items: center;">
-  <a href="https://linkedin.com/in/stefano-di-cecco-40343170" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
-  </a>
-  <a href="https://fb.com/macorifice" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Facebook" width="40" height="40" />
-  </a>
-  <a href="https://twitter.com/macorifice" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40" />
-  </a>
-  <a href="https://stackoverflow.com/users/9095158" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stackoverflow/stackoverflow-original.svg" alt="Stack Overflow" width="40" height="40" />
-  </a>
-</div>
